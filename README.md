@@ -1,4 +1,7 @@
 # Bug report
+
+[Link to the issue at vscode repository](https://github.com/microsoft/vscode/issues/91473).
+
 Steps to reproduce:
 ```
 git clone https://github.com/Veetaha/report-vscode-corrupted-when-codition-with-parens.git
